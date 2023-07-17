@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Axel @Amezande, I’m a student at ESIME on Computer Engineering.
 - 👀 I’m interested in web development and cybersecurity. 
-- 🌱 I’m currently learning c, c++, css, javascript and frameworks.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning frontend (HTML, CSS, JAVASCRIPT, FRAMEWORKS).
 - 📫 How to reach me oscararbjs@gmail.com
