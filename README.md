@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un entusiasta de la ciberseguridad y el desarrollo web, aprendo día con día en prácyicas y trabajo en proyectos personales<br>Estudio ingeniería en computación, carrera que me ha abierto las puertas a aprender más allá del hardware. Me interesa continuar en éste camino
+Soy un entusiasta de la ciberseguridad y el desarrollo web, aprendo día con día en prácticas y trabajo en proyectos personales<br>Estudio ingeniería en computación, carrera que me ha abierto las puertas a aprender más allá del hardware. Me interesa continuar en éste camino
 
 
 ## 🌐 Socials:
