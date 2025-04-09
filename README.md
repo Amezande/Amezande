@@ -8,20 +8,80 @@ Soy un entusiasta de la ciberseguridad y el desarrollo web, aprendo día con dí
 # 🛠️ Tools:
 # 🛠️ Herramientas de Desarrollo
 
-| Herramienta            | Logo |
-|------------------------|-------|
-| **[Vim](https://www.vim.org/)** | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="80"/> |
-| **[Neovim](https://neovim.io/)** | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="Neovim" width="80"/> |
-| **[Terminal](https://www.gnu.org/software/bash/)** | <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="Terminal" width="80"/> |
-| **[Visual Studio Code](https://code.visualstudio.com/)** | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="80"/> |
-| **[Tmux](https://github.com/tmux/tmux)** | <img src="https://raw.githubusercontent.com/tmux/tmux/master/logo/tmux-logo.png" alt="Tmux" width="80"/> |
-| **[Zsh](https://www.zsh.org/)** + **[Oh My Zsh](https://ohmyz.sh/)** | <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Zsh_Logo.png" alt="Zsh" width="60"/> <img src="https://ohmyz.sh/img/OMZLogo_BnW.png" alt="Oh My Zsh" width="60"/> |
-| **[Git](https://git-scm.com/)** | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="80"/> |
-| **[Docker](https://www.docker.com/)** | <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="80"/> |
-| **[Postman](https://www.postman.com/)** | <img src="https://assets.getpostman.com/common-share/postman-logo-horizontal-320x132.png" alt="Postman" width="80"/> |
-| **[Fzf](https://github.com/junegunn/fzf)** | <img src="https://raw.githubusercontent.com/junegunn/fzf/master/README.md/img/fzf.png" alt="Fzf" width="80"/> |
-| **[Lazygit](https://github.com/jesseduffield/lazygit)** | <img src="https://raw.githubusercontent.com/jesseduffield/lazygit/master/docs/logo.png" alt="Lazygit" width="80"/> |
+<p align="center">
+  <a href="https://www.vim.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="60"/>
+  </a>
+  <br>Vim
+</p>
 
+<p align="center">
+  <a href="https://neovim.io/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" alt="Neovim" width="60"/>
+  </a>
+  <br>Neovim
+</p>
+
+<p align="center">
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="Terminal" width="60"/>
+  </a>
+  <br>Terminal
+</p>
+
+<p align="center">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="60"/>
+  </a>
+  <br>Visual Studio Code
+</p>
+
+<p align="center">
+  <a href="https://github.com/tmux/tmux">
+    <img src="https://raw.githubusercontent.com/tmux/tmux/master/logo/tmux-logo.png" alt="Tmux" width="60"/>
+  </a>
+  <br>Tmux
+</p>
+
+<p align="center">
+  <a href="https://www.zsh.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Zsh_Logo.png" alt="Zsh" width="50"/>
+  </a>
+  <a href="https://ohmyz.sh/">
+    <img src="https://ohmyz.sh/img/OMZLogo_BnW.png" alt="Oh My Zsh" width="50"/>
+  </a>
+  <br>Zsh + Oh My Zsh
+</p>
+
+<p align="center">
+  <a href="https://git-scm.com/">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="60"/>
+  </a>
+  <br>Git
+</p>
+
+<p align="center">
+  <a href="https://www.docker.com/">
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="60"/>
+  </a>
+  <br>Docker
+</p>
+
+<p align="center">
+  <a href="https://www.postman.com/">
+    <img src="https://assets.getpostman.com/common-share/postman-logo-horizontal-320x132.png" alt="Postman" width="60"/>
+  </a>
+  <br>Postman
+</p>
+
+<p align="center">
+  <a href="https://github.com/junegunn/fzf">
+    <img src="https://raw.githubusercontent.com/junegunn/fzf/master/README.md/img/fzf.png" alt="Fzf" width="60"/>
+  </a>
+  <br>Fzf
+</p>
+
+<p align
 
 
 
