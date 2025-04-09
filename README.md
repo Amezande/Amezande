@@ -7,59 +7,22 @@ Soy un entusiasta de la ciberseguridad y el desarrollo web, aprendo día con dí
 
 # 🛠️ Tools:
 
-## Vim
-![Vim](https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg)
+# 🛠️ Herramientas de Desarrollo
 
----
+| Herramienta            | Logo |
+|------------------------|-------|
+| **[Vim](https://www.vim.org/)** | ![Vim](https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg) |
+| **[Neovim](https://neovim.io/)** | ![Neovim](https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg) |
+| **[Terminal](https://www.gnu.org/software/bash/)** | ![Terminal](https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png) |
+| **[Visual Studio Code](https://code.visualstudio.com/)** | ![VSCode](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg) |
+| **[Tmux](https://github.com/tmux/tmux)** | ![Tmux](https://raw.githubusercontent.com/tmux/tmux/master/logo/tmux-logo.png) |
+| **[Zsh](https://www.zsh.org/)** + **[Oh My Zsh](https://ohmyz.sh/)** | ![Zsh](https://upload.wikimedia.org/wikipedia/commons/5/5c/Zsh_Logo.png) ![Oh My Zsh](https://ohmyz.sh/img/OMZLogo_BnW.png) |
+| **[Git](https://git-scm.com/)** | ![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) |
+| **[Docker](https://www.docker.com/)** | ![Docker](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png) |
+| **[Postman](https://www.postman.com/)** | ![Postman](https://assets.getpostman.com/common-share/postman-logo-horizontal-320x132.png) |
+| **[Fzf](https://github.com/junegunn/fzf)** | ![Fzf](https://raw.githubusercontent.com/junegunn/fzf/master/README.md/img/fzf.png) |
+| **[Lazygit](https://github.com/jesseduffield/lazygit)** | ![Lazygit](https://raw.githubusercontent.com/jesseduffield/lazygit/master/docs/logo.png) |
 
-## Neovim
-![Neovim](https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg)
-
----
-
-## Terminal
-![Terminal](https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png)
-
----
-
-## Visual Studio Code
-![Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
-
----
-
-## Tmux
-![Tmux](https://raw.githubusercontent.com/tmux/tmux/master/logo/tmux-logo.png)
-
----
-
-## Zsh + Oh My Zsh
-![Zsh](https://upload.wikimedia.org/wikipedia/commons/5/5c/Zsh_Logo.png)
-![Oh My Zsh](https://ohmyz.sh/img/OMZLogo_BnW.png)
-
----
-
-## Git
-![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
-
----
-
-## Docker
-![Docker](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png)
-
----
-
-## Postman
-![Postman](https://assets.getpostman.com/common-share/postman-logo-horizontal-320x132.png)
-
----
-
-## Fzf
-![Fzf](https://raw.githubusercontent.com/junegunn/fzf/master/README.md/img/fzf.png)
-
----
-
-## Lazygit
-![Lazygit](https://raw.githubusercontent.com/jesseduffield/lazygit/master/docs/logo.png)
 
 
 # 💻 Tech Stack:
