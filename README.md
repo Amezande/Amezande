@@ -8,6 +8,12 @@ Soy un entusiasta de la ciberseguridad y el desarrollo web, aprendo día con dí
 # 🛠️ Tools:
 
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="center">
+![Oh My Zsh](https://ohmyz.sh/img/OMZLogo_BnW.png)
+![Neovim](https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg)
+![Bash](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg)
+![PowerShell](https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png)
+</p>
 
 
 
