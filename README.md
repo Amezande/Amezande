@@ -48,10 +48,5 @@ Soy un entusiasta de la ciberseguridad y el desarrollo web, aprendo día con dí
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amezande&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amezande&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amezande&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Amezande&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
